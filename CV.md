@@ -1,29 +1,26 @@
 ---
-layout: default
+layout: cv
 title: CV Jan Boone
 ---
 
+***
+
+&nbsp;
+
+> Dept. of Economics
+> 
+> Tilburg University
+> 
+> P.O. Box 90153
+> 
+> 5000 LE Tilburg
+> 
+> email: j.boone [at] uvt.nl
 
 
+## Publications
 
-
-**Address:**
-
-Dept. of Economics
-
-Tilburg University
-
-P.O. Box 90153
-
-5000 LE Tilburg
-
-email: j.boone [at] uvt.nl
-
-* * * * *
-
-****
-
-Publications in journals:
+### journals:
 
 -   Jan Boone and Christoph Schottmueller, forthcoming, 'Health insurance
     without single crossing: why healthy people have high coverage',
@@ -105,11 +102,8 @@ Publications in journals:
 -   Jan Boone, 2000, 'Technological Progress, Downsizing and
     Unemployment', *Economic Journal* 110 (July): 581-600.
 
-* * * * *
 
-****
-
-Dutch journals:
+### Dutch journals:
 
 -   Jan Boone, Rein Halbersma and Wolf Sauter, 2014, 'Risicoverevening
     en staatssteun in het Nederlandse zorgstelsel', *Markt en
@@ -149,11 +143,7 @@ Dutch journals:
     *De Economist* 146 (3): 445-461.
 -   Boone, J., 1997, 'Competition and Welfare', *CPB Report* 1997-4.
 
-* * * * *
-
-****
-
-Chapters in Books:
+### Chapters in Books:
 
 -   Jan Boone and Rudy Douven, 'Budgetten en marktwerking in de zorg:
     waarom en hoe?', in *Een economisch gezonde gezondheidszorg*,
@@ -177,11 +167,7 @@ Chapters in Books:
     Towards the 21st Century, Beijing 1998 (Organized by Chinese Academy
     of Social Sciences and Ford Foundation)
 
-* * * * *
-
-****
-
-Work in progress:
+### Work in progress:
 
 -   Michiel Bijlsma, Jan Boone and Gijsbert Zwart, 2013, 'Community
     rating in health insurance: can it be optimal?'
@@ -199,11 +185,8 @@ Work in progress:
 -   Jan Boone, 2013, 'Does the market choose optimal health insurance
     coverage'
 
-* * * * *
 
-****
-
-Coverage in popular press:
+## Coverage in popular press:
 
 -   New Scientist vol 176 issue 2373 - 14 December 2002, page 14,
     'Safety suffers in a slump' on the paper with Jan van Ours 'Cyclical
@@ -217,11 +200,8 @@ Coverage in popular press:
     knikkers'](https://sites.google.com/site/janboonehomepage/homepage/indic.pdf?attredirects=0)
     on a new way to measure competition (in Dutch)
 
-* * * * *
 
-****
-
-Prizes and honours:
+## Prizes and honours:
 
 -   Vici grant (2008-2013) "Competition in health care markets".
 -   Proposal joint with Erik Brouwer and Henry van der Wiel "Market
@@ -235,14 +215,11 @@ Prizes and honours:
 -   Rhodes European Scholarship (1993-1996)
 -   Erasmus prize for the best thesis in economics (1993)
 
-* * * * *
 
-****
 
-Other activities:
+## Other activities:
 
--   Member of [committee
-    Don](http://www.rijksoverheid.nl/bestanden/documenten-en-publicaties/rapporten/2012/06/07/evaluatie-risicoverevening-zorgverzekeringswet/evaluatie-risicoverevening-zorgverzekeringswet.pdf)
+-   Member of [committee Don](http://www.rijksoverheid.nl/bestanden/documenten-en-publicaties/rapporten/2012/06/07/evaluatie-risicoverevening-zorgverzekeringswet/evaluatie-risicoverevening-zorgverzekeringswet.pdf)
     on risk adjustment in the Netherlands
 -   Academic advisor [CPB](http://www.cpb.nl/medewerkers/jan-boone)
     (2008-present)
@@ -264,11 +241,7 @@ Other activities:
     Ministerie van Economische Zaken, 17 juni 2002 (joint work with Eric
     van Damme and Sjak Smulders)
 
-* * * * *
-
-****
-
-Managerial duties:
+## Managerial duties:
 
 -   Member of management team department of economics (2012-2014)
 -   Member of Department Evaluation Committee of the department of
@@ -285,22 +258,14 @@ Managerial duties:
     at the question how to make Economics more attractive for first year
     students
 
-* * * * *
-
-****
-
-Education:
+## Education:
 
 -   Oxford University (Nuffield College): MPhil and DPhil in Economics
     (1993-1997)
 -   Erasmus University Rotterdam: MSc in Economics (Dutch 'drs.' title)
     (1987-1993)
 
-* * * * *
-
-****
-
-Current and Previous positions:
+## Current and Previous positions:
 
 -   Professor of Industrial Economics at Tilburg University
     (2004-present)
@@ -309,29 +274,25 @@ Current and Previous positions:
 -   Researcher at CPB Netherlands Bureau for Economic Policy Analysis
     (1997-2000)
 
-* * * * *
+## Affiliations:
 
-****
-
-
-
-Affiliations: [CentER](https://www.tilburguniversity.edu/research/institutes-and-research-groups/center/), [Tilec](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilec/), [CEPR](http://www.cepr.org/), [IZA](http://www.iza.org/en/webcontent/index_html?lang=en&-C=)
-
-* * * * *
-
-****
+-   [CentER](https://www.tilburguniversity.edu/research/institutes-and-research-groups/center/), [Tilec](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilec/), [CEPR](http://www.cepr.org/), [IZA](http://www.iza.org/en/webcontent/index_html?lang=en&-C=)
 
 
-Open source skills: python, emacs, markdown
+## Open source skills:
 
-* * * * *
+-   python, emacs, markdown
 
-****
+<!-- ### Footer
+j.boone [at] uvt.nl
+
+Dept. of Economics, Tilburg University
+
+P.O. Box 90153, 5000 LE Tilburg, The Netherlands
+
+-->
 
 
-> <j.boone@uvt.nl>\
-> Dept. of Economics, Tilburg University\
-> P.O. Box 90153, 5000 LE Tilburg, The Netherlands
 
 
 
