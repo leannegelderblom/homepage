@@ -3,24 +3,27 @@ layout: cv
 title: CV Jan Boone
 ---
 
+
 ***
 
 &nbsp;
 
-> Dept. of Economics
-> 
-> Tilburg University
-> 
-> P.O. Box 90153
-> 
-> 5000 LE Tilburg
-> 
-> email: j.boone [at] uvt.nl
+## Address
+
+Dept. of Economics
+
+Tilburg University
+
+P.O. Box 90153
+
+5000 LE Tilburg
+
+email: j.boone [at] uvt.nl
 
 
 ## Publications
 
-### journals:
+### Journals:
 
 -   Jan Boone and Christoph Schottmueller, forthcoming, 'Health insurance
     without single crossing: why healthy people have high coverage',
@@ -283,14 +286,6 @@ title: CV Jan Boone
 
 -   python, emacs, markdown
 
-<!-- ### Footer
-j.boone [at] uvt.nl
-
-Dept. of Economics, Tilburg University
-
-P.O. Box 90153, 5000 LE Tilburg, The Netherlands
-
--->
 
 
 
