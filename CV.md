@@ -8,7 +8,6 @@ title: CV Jan Boone
 
 &nbsp;
 
-## Address
 
 Dept. of Economics
 
@@ -20,6 +19,7 @@ P.O. Box 90153
 
 email: j.boone [at] uvt.nl
 
+***
 
 ## Publications
 
