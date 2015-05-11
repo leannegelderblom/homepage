@@ -1,0 +1,27 @@
+.. Homepage documentation master file, created by
+   sphinx-quickstart on Mon May 11 16:41:09 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+   sphinx-build -E ~/SURFdrive/github_source/homepage/source ~/github/homepage
+
+Welcome to Jan Boone's Homepage
+===============================
+
+I am a professor of economics at `Tilburg University
+<https://www.tilburguniversity.edu/>`_ specialising in competition and
+regulation in health care markets.
+
+Here you find the documentation relating to my CV, teaching and research projects.
+
+My github page can be found `here <https://github.com/janboone>`_.
+
+
+Contents:
+
+.. toctree::
+   :maxdepth: 1
+
+   CV
+   Teaching
+   Research
+
