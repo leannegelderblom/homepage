@@ -31,6 +31,9 @@ Journals
 -   Jan Boone and Christoph Schottmueller, forthcoming, 'Health insurance
     without single crossing: why healthy people have high coverage',
     *Economic Journal*
+-   Jan Boone and Kresimir Zigic, 2015, 'Trade policy in markets with
+    collusion: The case of North-South R&amp;D spillovers', *Research
+    in Economics*, `Vol. 69, Issue 2, pp. 224-237 <http://www.sciencedirect.com/science/article/pii/S1090944315000101>`_. 
 -   Michiel Bijlsma, Jan Boone and Gijsbert Zwart, 2014, 'Competition
     leverage: how the demand side affects optimal risk adjustment',
     *RAND Journal of Economics*, Vol. 45 (No. 4), pp. 792--815.
