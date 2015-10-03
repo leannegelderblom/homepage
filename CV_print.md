@@ -25,14 +25,14 @@ email: j.boone [at] uvt.nl
 
 ### Journals:
 
--   Jan Boone, forthcoming, 'Basic versus supplementary health
+-   Jan Boone, 2015, 'Basic versus supplementary health
 	insurance: moral hazard and adverse selection', *Journal of Public
-	Economics*
+	Economics*, Vol. 128, 50--58.
 -   Jan Boone and Christoph Schottmueller, forthcoming, 'Health insurance
     without single crossing: why healthy people have high coverage',
     *Economic Journal*
 -   Jan Boone and Kresimir Zigic, 2015, 'Trade policy in markets with
-	collusion: The case of North-South R&amp;D spillovers', *Research
+	collusion: The case of North-South R and D spillovers', *Research
 	in Economics*, [Vol. 69, Issue 2, pp. 224-237](http://www.sciencedirect.com/science/article/pii/S1090944315000101).
 -   Michiel Bijlsma, Jan Boone and Gijsbert Zwart, 2014, 'Competition
     leverage: how the demand side affects optimal risk adjustment',
