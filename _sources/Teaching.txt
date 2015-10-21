@@ -7,4 +7,4 @@ The courses that I teach can be found on github.
 
 Open source for economists can be found `here <http://janboone.github.io/open_source_for_economists/index.html>`_.
 
-Competition Policy and Regulation `here <http://janboone.github.io/competition_policy_and_regulation_2015_2016/>`_.
+Competition Policy and Regulation `here <http://janboone.github.io/competition_policy_and_regulation>`_.
