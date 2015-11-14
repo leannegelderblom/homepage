@@ -212,6 +212,8 @@ email: j.boone [at] uvt.nl
 
 ## Prizes and honours:
 
+-   Certificates of Excellence in Reviewing for International Journal
+	of Industrial Organization and Labour Economics.
 -   Vici grant (2008-2013) "Competition in health care markets".
 -   Proposal joint with Erik Brouwer and Henry van der Wiel "Market
     Structure, Innovation and Productivity: An Empirical Approach" was
