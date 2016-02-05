@@ -25,6 +25,7 @@ email: j.boone [at] uvt.nl
 
 ### Journals:
 
+-   Jan Boone and Christoph Schottmueller, forthcoming, 'Procurement with specialized firms', *RAND Journal of Economics*
 -   Jan Boone, 2015, 'Basic versus supplementary health
 	insurance: moral hazard and adverse selection', *Journal of Public
 	Economics*, Vol. 128, 50--58.
@@ -187,8 +188,6 @@ email: j.boone [at] uvt.nl
     Industrial Economics*
 -   Jan Boone and Rudy Douven, 2013, 'Competition and budgets in health
     care'
--   Jan Boone and Christoph Schottmueller, 2013, 'Procurement with
-    specialized firms' 3rd revision *RAND Journal of Economics*
 -   Jan Boone, 2013, 'Optimal coverage in basic and supplementary health
     insurance: the role of cost effectiveness and prevalence'
 -   Jan Boone, 2013, 'Does the market choose optimal health insurance
